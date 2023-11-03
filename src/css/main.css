@@ -111,3 +111,7 @@ body {
   min-height: 200px;
   background-color: var(--color-red);
 }
+
+[data-type=shop]:hover {
+  fill: red !important;
+}
